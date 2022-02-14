@@ -1,0 +1,116 @@
+body {
+    margin: 0;
+}
+.main-div {
+    width: 100%;
+    height: 615px;
+    background-color: #f0f2f5;
+}
+.image-div {
+    width: 50%;
+    height: 615px;
+    float: left;
+
+}
+.logo {
+    width: 416px;
+    height: 106px;
+    margin-left: 105px;
+    margin-top: 164px;
+}
+.sub-heading{
+    color: #1c1e21;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    margin-left: 193px;
+    margin-top: -16px;
+}
+.login-div {
+    width: 395px;
+    height: 325px;
+    float: left;
+    background-color: rgb(255, 255, 255);
+    margin-top: 148px;
+    margin-left: 93px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%);
+    box-sizing: border-box;
+}
+.emailorphone {
+    background-color: #fff;
+    border-radius: 6px;
+    border-color: #dddfe2;
+    width: 364px;
+    height: 44px;
+    margin-left: 13px;
+    margin-top: 23px;
+    font-size: 17px;
+    cursor: pointer;
+}
+.emailorphone:hover{
+    border-color: #0062f5;
+}
+.pass {
+    background-color: #fff;
+    border-radius: 6px;
+    border-color: #dddfe2;
+    width: 364px;
+    height: 44px;
+    margin-left: 13px;
+    margin-top: 15px;
+    font-size: 17px;
+}
+.submit {
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 364px;
+    font-weight: bold;
+    color: #fff;
+    margin-left: 21px;
+    margin-top: 19px;
+}
+.forpass {
+    text-decoration: none;
+    color: #1877f2;
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 146px;
+    cursor: pointer;
+}
+.forpass:hover {
+    text-decoration: underline;
+}
+hr {
+    align-items: center;
+    border-bottom: 1px solid #dadde1;
+    display: flex;
+    margin: 20px 16px;
+    text-align: center;
+    line-height: 1.34;
+}
+.ceracc {
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 48px;
+    padding: 0 16px;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+    white-space: nowrap;
+    background-color: #42b72a;
+    color: #fff;
+    position: relative;
+    text-align: center;
+    font-weight: bold;
+    font-family: inherit;
+    margin-left: 118px;
+    margin-top: -8px;
+}
