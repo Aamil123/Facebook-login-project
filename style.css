@@ -98,7 +98,7 @@ hr {
 .ceracc {
     border: none;
     border-radius: 6px;
-    font-size: 17px;
+    font-size: 20px;
     line-height: 48px;
     padding: 0 16px;
     cursor: pointer;
@@ -115,8 +115,12 @@ hr {
     margin-top: -8px;
 }
 footer {
-    text-align: center;
     padding: 3px;
     background-color: DarkSalmon;
     color: white;
+}
+.lang {
+    padding-top: 8px;
+    text-decoration: none;
+    font-size: 12px;
 }
